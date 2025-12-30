@@ -1,4 +1,4 @@
-Database Schema Diagram (ER Diagram)
+# Database Schema Diagram (ER Diagram)
 Generating a visually appealing and accurate ER diagram directly in text is challenging. However, I can describe the relationships and entities clearly, and then provide an image generated from this conceptual model.
 Entities (Tables):
 --Users
