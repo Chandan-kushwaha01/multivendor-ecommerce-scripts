@@ -1,16 +1,15 @@
 # Database Schema Diagram (ER Diagram)
-Generating a visually appealing and accurate ER diagram directly in text is challenging. However, I can describe the relationships and entities clearly, and then provide an image generated from this conceptual model.
-Entities (Tables):
---Users
---Vendors
---Categories
---Products
---Orders
---OrderItems
---Payments
---Commissions
---Reviews
---VendorPayouts
+## Entities (Tables):
+* Users
+* Vendors
+* Categories
+* Products
+* Orders
+* OrderItems
+* Payments
+* Commissions
+* Reviews
+* VendorPayouts
 
 ## Relationships:
 ### Users to Vendors:
